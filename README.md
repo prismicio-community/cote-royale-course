@@ -1,5 +1,8 @@
 # Animated Luxury Website Course - Côte Royale
 
+> [!NOTE]
+> This is the finished code for a Prismic course. It is archived and no longer updated. To start a new Prismic project with Next.js, see the [Next.js guide](https://prismic.io/docs/nextjs).
+
 This is the final code for the Côte Royale website YouTube course. Check through it if you're debugging your own code. 
 
 ## 🚀 Quick Start
